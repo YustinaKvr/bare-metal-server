@@ -15,4 +15,4 @@
 
 
 ## Risk of Omission:
-<!-- Risks of what will happen if the changes AREN'T implemented? -->
+<!-- Risks of what will happen if the changes AREN'T implemented? Are we gonna die? -->
